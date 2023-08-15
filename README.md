@@ -1,3 +1,3 @@
 # Demo
 
-first demo repo
+First demo repo
